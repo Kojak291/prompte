@@ -1,0 +1,5 @@
+{
+  "name": "PromptForge",
+  "description": "An application to upload an image, generate a descriptive caption, and expand it into a detailed prompt for image generation models.",
+  "requestFramePermissions": []
+}
